@@ -1,0 +1,22 @@
+{
+  "name": "DIProvider",
+  "version": "0.1.0",
+  "summary": "A short description of DIProvider.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/61378523/DIProvider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "61378523": "61378523+a-balakmet@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/61378523/DIProvider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DIProvider/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_DIProvider_Example {
+  umbrella header "Pods-DIProvider_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

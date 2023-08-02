@@ -1,0 +1,6 @@
+framework module Pods_DIProvider_Tests {
+  umbrella header "Pods-DIProvider_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

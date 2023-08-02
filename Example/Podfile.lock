@@ -1,0 +1,16 @@
+PODS:
+  - DIProvider (0.1.0)
+
+DEPENDENCIES:
+  - DIProvider (from `../`)
+
+EXTERNAL SOURCES:
+  DIProvider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DIProvider: 27bee59e8b979bef87b3d4a0f2fb43b7cc850ba4
+
+PODFILE CHECKSUM: 1fbb743609966cd33dc39db3b925d11df900cb68
+
+COCOAPODS: 1.11.3
