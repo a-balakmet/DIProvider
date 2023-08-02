@@ -22,7 +22,7 @@ pod 'DIProvider'
 
 ## Author
 
-61378523, 61378523+a-balakmet@users.noreply.github.com
+a.balakmet@gmail.com
 
 ## License
 
